@@ -72,6 +72,7 @@ def familiar4(self):
 
     return HttpResponse(documento)
     
+    
     # texto4= f"Se agrego un nuevo familiar: {familiar4.nombre} {familiar4.apellido} Con fecha de nacimiento: {familiar4.fecha_de_nacimiento} y edad: {familiar4.edad}"
     # return HttpResponse(texto4)
 
